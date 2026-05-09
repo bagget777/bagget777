@@ -48,7 +48,7 @@
 
 ---
 
-### 📫 Connect with me:
+## 📫 Connect with me
 
 <p align="left">
   <a href="https://t.me/bazykrun" target="_blank">
