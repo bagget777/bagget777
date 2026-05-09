@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8dc8a76e-8f0f-474d-ae68-a5ead0cc96c9" width="800" />
+  <img src="https://github.com/user-attachments/assets/7812035a-92db-4102-b7a2-161672b67721" width="800" />
 </p>
 
 ## from Kyrgyzstan 🇰🇬, living in Osh
