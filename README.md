@@ -1,10 +1,10 @@
-# Hi there, i'm Baizak👋
+# Hi there, I'm Baizak 👋
 
-**i'm beginner Go Developer | Backend & System Tools** 
-
-**from Kyrgyzstan 🇰🇬 living in Osh**
+### ⚡ Backend Go Developer | System Tools & Microservices
+**Based in Osh, Kyrgyzstan 🇰🇬**
 
 ---
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <table align="center">
@@ -48,11 +48,18 @@
 
 ---
 
-### 📫 Контакты для связи:
+### 📫 Connect with me:
 
-- **Telegram:** [@bazykrun](https://t.me/bazykrun)
-- **Email:** [bazykrun@gmail.com](mailto:bazykrun@gmail.com)
-- **Instagram:** [@bazykrun](https://www.instagram.com/bazykrun)
-- 
+<p align="left">
+<a href="https://t.me/bazykrun" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="bazykrun" height="40" width="40" /></a>
+<a href="https://www.instagram.com/bazykrun" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="bazykrun" height="40" width="40" /></a>
+<a href="mailto:bazykrun@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="bazykrun" height="40" width="40" /></a>
+</p>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bazykrun/bazykrun/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bazykrun/bazykrun/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/bazykrun/bazykrun/output/github-snake.svg">
+</picture>
