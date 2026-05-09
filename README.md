@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/8fe494a8-d7af-4095-ac16-1bcf59545114" width="100%" />
 <img src="https://github.com/user-attachments/assets/8dc8a76e-8f0f-474d-ae68-a5ead0cc96c9" width="100%" />
 ## from Kyrgyzstan 🇰🇬, living in Osh
 
