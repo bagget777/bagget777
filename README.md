@@ -50,13 +50,13 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://t.me/bazykrun" target="_blank">
+  <a href="https://t.me/bagget777" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.instagram.com/bazykrun" target="_blank">
+  <a href="https://www.instagram.com/bagget7777" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:bazykrun@gmail.com">
+  <a href="mailto:bagget7777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
