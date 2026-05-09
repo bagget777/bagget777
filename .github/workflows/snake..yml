@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # Запуск каждые 24 часа
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Возможность запустить вручную
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,7 +12,9 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          # Здесь мы жестко прописываем твой старый ник, 
+          # чтобы змейка брала данные именно оттуда
+          github_user_name: bagget777 
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -20,7 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v5 # Обновил до v5, чтобы не было ошибок Node.js
         with:
           target_branch: output
           build_dir: dist
