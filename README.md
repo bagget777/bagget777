@@ -1,2 +1,6 @@
 Go Developer | Backend & System Tools
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,redis,grpc,git,bash&theme=dark" />
+  </a>
+</p>
