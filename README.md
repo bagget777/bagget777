@@ -32,7 +32,7 @@
       <br /><b>Redis</b>
     </td>
     <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=grpc" width="45" alt="gRPC"/>
+      <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
       <br /><b>gRPC / Proto</b>
     </td>
     <td align="center" width="160">
@@ -48,9 +48,11 @@
 
 ---
 
-## My Stack 🛠
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,git,bash&theme=dark"/>
-</a>
+### 📫 Контакты для связи:
+
+- **Telegram:** [@bazykrun](https://t.me/bazykrun)
+- **Email:** [bazykrun@gmail.com](mailto:bazykrun@gmail.com)
+- **Instagram:** [@bazykrun](https://www.instagram.com/bazykrun)
+- 
 
 ---
