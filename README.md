@@ -5,9 +5,9 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=go" width="45" alt="Go"/>
@@ -51,9 +51,15 @@
 ### 📫 Connect with me:
 
 <p align="left">
-<a href="https://t.me/bazykrun" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="bazykrun" height="40" width="40" /></a>
-<a href="https://www.instagram.com/bazykrun" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="bazykrun" height="40" width="40" /></a>
-<a href="mailto:bazykrun@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="bazykrun" height="40" width="40" /></a>
+  <a href="https://t.me/bazykrun" target="blank">
+    <img src="https://skillicons.dev/icons?i=telegram" alt="telegram" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/bazykrun" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
+  </a>
+  <a href="mailto:bazykrun@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" />
+  </a>
 </p>
 
 ---
