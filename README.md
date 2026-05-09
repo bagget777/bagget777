@@ -1,4 +1,6 @@
+<img width="500" height="3236" alt="github-header-banner" src="https://github.com/user-attachments/assets/18ae971e-16e4-4330-a05c-5934c96277e8" />
 <img width="500" height="500" alt="github-header-banner" src="https://github.com/user-attachments/assets/8dc8a76e-8f0f-474d-ae68-a5ead0cc96c9" />
+<img width="3872" height="500" alt="github-header-banner" src="https://github.com/user-attachments/assets/18ae971e-16e4-4330-a05c-5934c96277e8" />
 
 ## from Kyrgyzstan 🇰🇬, living in Osh
 
