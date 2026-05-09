@@ -1,6 +1,6 @@
 # Hi i'm Baizak👋
 
-I Nice to meet you in my page
+I Nice to meet you in my page /n
 i'm beginner Go Developer | Backend & System Tools 
 from Kyrgyzstan 🇰🇬 living in Osh
 
