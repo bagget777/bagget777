@@ -1,9 +1,10 @@
 # Hi i'm Baizak👋
-I Nice to meet you in my page 
 
 **i'm beginner Go Developer | Backend & System Tools** 
 
-from Kyrgyzstan 🇰🇬 living in Osh
+**from Kyrgyzstan 🇰🇬 living in Osh**
+
+---
 
 **I code with**
 
@@ -11,3 +12,4 @@ from Kyrgyzstan 🇰🇬 living in Osh
   <img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,git,bash&theme=dark"/>
 </a>
 
+---
