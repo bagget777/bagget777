@@ -1,5 +1,6 @@
 # Hi i'm Baizak👋
 ## Nice to meet you in my page
+i'm beginner Go Developer | Backend & System Tools from Kyrgyzstan 🇰🇬 living in Osh
 
 ---
 
