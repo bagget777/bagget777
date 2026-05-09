@@ -1,4 +1,4 @@
-# Hi i'm Baizak👋
+# Hi there, i'm Baizak👋
 
 **i'm beginner Go Developer | Backend & System Tools** 
 
