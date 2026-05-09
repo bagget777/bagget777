@@ -33,7 +33,7 @@
     </td>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
-      <br /><b>gRPC / Proto</b>
+      <br /><b>Python</b>
     </td>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
