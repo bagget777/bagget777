@@ -1,7 +1,7 @@
 # Hi there, I'm Baizak 👋
 
 ### ⚡ Backend Go Developer | System Tools & Microservices
-**Based in Osh, Kyrgyzstan 🇰🇬**
+**from Kyrgyzstan 🇰🇬, living in Osh**
 
 ---
 
