@@ -1,5 +1,5 @@
 
-<img width="3000" height="250" alt="github-header-banner" src="https://github.com/user-attachments/assets/8dc8a76e-8f0f-474d-ae68-a5ead0cc96c9" />
+<img width="3872" height="1000" alt="github-header-banner" src="https://github.com/user-attachments/assets/8dc8a76e-8f0f-474d-ae68-a5ead0cc96c9" />
 
 
 ## from Kyrgyzstan 🇰🇬, living in Osh
