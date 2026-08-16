@@ -1,7 +1,6 @@
 <img src="https://github.com/user-attachments/assets/7812035a-92db-4102-b7a2-161672b67721" width="800" />
 
-## from Kyrgyzstan 🇰🇬, living in Osh
-
+## from Kyrgyzstan 🇰🇬
 ---
 
 ## 🛠 Tech Stack
