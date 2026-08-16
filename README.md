@@ -20,16 +20,16 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <br /><b>Docker</b>
     </td>
-  <td align="center" width="160">
+    <td align="center" width="160">
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
       <br /><b>Apache Kafka</b>
     </td>
   </tr>
-      <td align="center" width="160">
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
       <br /><b>Rust</b>
     </td>
-  <tr>
     <td align="center" width="160">
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
       <br /><b>Redis</b>
@@ -44,7 +44,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📫 Connect with me
