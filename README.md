@@ -44,7 +44,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 📫 Connect with me
 
