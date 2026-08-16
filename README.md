@@ -20,9 +20,9 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <br /><b>Docker</b>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <br /><b>Linux</b>
+  <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+      <br /><b>Apache Kafka</b>
     </td>
   </tr>
   <tr>
