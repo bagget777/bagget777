@@ -31,8 +31,8 @@
       <br /><b>Redis</b>
     </td>
     <td align="center" width="160">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <br /><b>Python</b>
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+      <br /><b>Rust</b>
     </td>
     <td align="center" width="160">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -44,14 +44,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Ключевые компетенции:
-- **Highload Backend:** Проектирование и разработка микросервисов на Go, работа с конкурентностью (Goroutines, Channels) и оптимизация под высокие нагрузки.
-- **CLI Development:** Создание эффективных консольных приложений и инструментов автоматизации.
-- **Database Engineering:** Проектирование сложных схем данных и оптимизация запросов в **PostgreSQL**.
-- **System Thinking:** Глубокое понимание работы **Linux**, управления процессами и ресурсами системы.
 
 ---
 
